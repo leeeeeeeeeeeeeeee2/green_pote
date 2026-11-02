@@ -1,0 +1,71 @@
+@fonts-face {
+font-family: 'pretendard';
+/* ttf: truetype, otf:opentype, woff:woff, woff2:woff2 */
+src: url(../fonts/pretendard-regular.woff2) format('woff2');
+font-weight:400;
+}
+
+@fonts-face {
+font-family: 'pretendard';
+/* ttf: truetype, otf:opentype, woff:woff, woff2:woff2 */
+src: url(../fonts/pretendard-thin.woff2) format('woff2');
+font-weight:100;
+}
+
+@fonts-face {
+font-family: 'pretendard';
+/* ttf: truetype, otf:opentype, woff:woff, woff2:woff2 */
+src: url(../fonts/pretendard-extralight.woff2) format('woff2');
+font-weight:200;
+}
+
+@fonts-face {
+font-family: 'pretendard';
+/* ttf: truetype, otf:opentype, woff:woff, woff2:woff2 */
+src: url(../fonts/pretendard-light.woff2) format('woff2');
+font-weight:300;
+}
+
+@fonts-face {
+font-family: 'pretendard';
+/* ttf: truetype, otf:opentype, woff:woff, woff2:woff2 */
+src: url(../fonts/pretendard-midium.woff2) format('woff2');
+font-weight:500;
+}
+
+@fonts-face {
+font-family: 'pretendard';
+/* ttf: truetype, otf:opentype, woff:woff, woff2:woff2 */
+src: url(../fonts/pretendard-remidium.woff2) format('woff2');
+font-weight:600;
+}
+
+@fonts-face {
+font-family: 'pretendard';
+/* ttf: truetype, otf:opentype, woff:woff, woff2:woff2 */
+src: url(../fonts/pretendard-bold.woff2) format('woff2');
+font-weight:700;
+}
+
+@fonts-face {
+font-family: 'pretendard';
+/* ttf: truetype, otf:opentype, woff:woff, woff2:woff2 */
+src: url(../fonts/pretendard-extrabold.woff2) format('woff2');
+font-weight:400;
+}
+
+@fonts-face {
+font-family: 'pretendard';
+/* ttf: truetype, otf:opentype, woff:woff, woff2:woff2 */
+src: url(../fonts/pretendard-black.woff2) format('woff2');
+font-weight:900;
+}
+
+/* 장식체 */
+@font-face {
+    font-family: 'myfont';
+    src: url(../fonts/DeoUahanSerif.ttf) format(truetype);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
